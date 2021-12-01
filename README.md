@@ -1,5 +1,6 @@
 ![project](https://img.shields.io/badge/Project-Data%20Science-blueviolet)
 ![language](https://img.shields.io/badge/Language-Python-success)
+![topics](https://img.shields.io/badge/Topics%20Covered-Data%20Manipulation%2C%20Data%20Visualization%2C%20Programming-informational)
 
 
 # Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office
